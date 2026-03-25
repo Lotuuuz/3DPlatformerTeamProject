@@ -73,3 +73,210 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/Materials.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/Materials/signs.mat
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/Materials/signs.mat.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/street lamp1.obj
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/street lamp1.obj.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_AO.png
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_AO.png.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_BaseColor.png
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_BaseColor.png.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_MetallicSmoothness.png
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_MetallicSmoothness.png.meta
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_Normal.png
+Assets/3DShapes/Colonial City LittlePack – Church Graveyard Environment/Models/Signs_pylon_tinajon_street lamps/textures/Props_Normal.png.meta
+Assets/heart-png-38780.png
+Assets/heart-png-38780.png.meta
+Assets/Material.meta
+Assets/Material/HeartMat.mat
+Assets/Material/HeartMat.mat.meta
+Assets/Material/Materials.meta
+Assets/Material/Materials/T_YFCM_CrossSlabs_d.mat
+Assets/Material/Materials/T_YFCM_CrossSlabs_d.mat.meta
+Assets/Material/Materials/T_YFCM_Honeycombing_d.mat
+Assets/Material/Materials/T_YFCM_Honeycombing_d.mat.meta
+Assets/Material/Materials/T_YFCM_Moldy_s.mat
+Assets/Material/Materials/T_YFCM_Moldy_s.mat.meta
+Assets/Material/T_YFCM_CrossSlabs_d.tga
+Assets/Material/T_YFCM_CrossSlabs_d.tga.meta
+Assets/Material/T_YFCM_Honeycombing_d.tga
+Assets/Material/T_YFCM_Honeycombing_d.tga.meta
+Assets/Material/T_YFCM_Moldy_s.tga
+Assets/Material/T_YFCM_Moldy_s.tga.meta
+Assets/Materials.meta
+Assets/Materials/AirDash.mat
+Assets/Materials/AirDash.mat.meta
+Assets/Materials/Black.mat
+Assets/Materials/Black.mat.meta
+Assets/Materials/Bounce.mat
+Assets/Materials/Bounce.mat.meta
+Assets/Materials/DoubleJump.mat
+Assets/Materials/DoubleJump.mat.meta
+Assets/Materials/Float.mat
+Assets/Materials/Float.mat.meta
+Assets/Materials/Purple.mat
+Assets/Materials/Purple.mat.meta
+Assets/Materials/Red.mat
+Assets/Materials/Red.mat.meta
+Assets/Materials/Slide.mat
+Assets/Materials/Slide.mat.meta
+Assets/Materials/White.mat
+Assets/Materials/White.mat.meta
+Assets/ParticleSystems.meta
+Assets/ParticleSystems/HumanHeartLowPollyIsh.fbx
+Assets/ParticleSystems/HumanHeartLowPollyIsh.fbx.meta
+Assets/Prefabs.meta
+Assets/Prefabs/AirDash.prefab
+Assets/Prefabs/AirDash.prefab.meta
+Assets/Prefabs/BouncePlatform.prefab
+Assets/Prefabs/BouncePlatform.prefab.meta
+Assets/Prefabs/CanvasDialogue.prefab
+Assets/Prefabs/CanvasDialogue.prefab.meta
+Assets/Prefabs/CanvasManager.prefab
+Assets/Prefabs/CanvasManager.prefab.meta
+Assets/Prefabs/CheckPoint.prefab
+Assets/Prefabs/CheckPoint.prefab.meta
+Assets/Prefabs/CheckPointManager.prefab
+Assets/Prefabs/CheckPointManager.prefab.meta
+Assets/Prefabs/DoubleJump.prefab
+Assets/Prefabs/DoubleJump.prefab.meta
+Assets/Prefabs/Float.prefab
+Assets/Prefabs/Float.prefab.meta
+Assets/Prefabs/HeartParent 1.prefab
+Assets/Prefabs/HeartParent 1.prefab.meta
+Assets/Prefabs/KillArea.prefab
+Assets/Prefabs/KillArea.prefab.meta
+Assets/Prefabs/Slide.prefab
+Assets/Prefabs/Slide.prefab.meta
+Assets/Prefabs/StreetLamp1.prefab
+Assets/Prefabs/StreetLamp1.prefab.meta
+Assets/Prefabs/TEMPLE 1.prefab
+Assets/Prefabs/TEMPLE 1.prefab.meta
+Assets/Prefabs/Version 4 Multi.prefab
+Assets/Prefabs/Version 4 Multi.prefab.meta
+Assets/Prefabs/WinObject.prefab
+Assets/Prefabs/WinObject.prefab.meta
+Assets/Scenes/Level 2.unity
+Assets/Scenes/Level 2.unity.meta
+Assets/Scripts.meta
+Assets/Scripts/AbilityInfo.cs
+Assets/Scripts/AbilityInfo.cs.meta
+Assets/Scripts/AbilityPickup.cs
+Assets/Scripts/AbilityPickup.cs.meta
+Assets/Scripts/BouncePlatform.cs
+Assets/Scripts/BouncePlatform.cs.meta
+Assets/Scripts/camControlProto1.cs
+Assets/Scripts/camControlProto1.cs.meta
+Assets/Scripts/CheckPoint.cs
+Assets/Scripts/CheckPoint.cs.meta
+Assets/Scripts/CheckpointManager.cs
+Assets/Scripts/CheckpointManager.cs.meta
+Assets/Scripts/CollectibleScript.cs
+Assets/Scripts/CollectibleScript.cs.meta
+Assets/Scripts/Elevator.cs
+Assets/Scripts/Elevator.cs.meta
+Assets/Scripts/KillZone.cs
+Assets/Scripts/KillZone.cs.meta
+Assets/Scripts/Lever.cs
+Assets/Scripts/Lever.cs.meta
+Assets/Scripts/LightPulse.cs
+Assets/Scripts/LightPulse.cs.meta
+Assets/Scripts/MessageController.cs
+Assets/Scripts/MessageController.cs.meta
+Assets/Scripts/movement.meta
+Assets/Scripts/movement/AirDash.cs
+Assets/Scripts/movement/AirDash.cs.meta
+Assets/Scripts/movement/DoubleJump.cs
+Assets/Scripts/movement/DoubleJump.cs.meta
+Assets/Scripts/movement/Float.cs
+Assets/Scripts/movement/Float.cs.meta
+Assets/Scripts/movement/Slide.cs
+Assets/Scripts/movement/Slide.cs.meta
+Assets/Scripts/NPCInteract.cs
+Assets/Scripts/NPCInteract.cs.meta
+Assets/Scripts/PauseManager.cs
+Assets/Scripts/PauseManager.cs.meta
+Assets/Scripts/PlayerAbilities.cs
+Assets/Scripts/PlayerAbilities.cs.meta
+Assets/Scripts/PlayerHealth.cs
+Assets/Scripts/PlayerHealth.cs.meta
+Assets/Scripts/PlayerRespawn.cs
+Assets/Scripts/PlayerRespawn.cs.meta
+Assets/Scripts/WinZone.cs
+Assets/Scripts/WinZone.cs.meta
+Assets/Settings/PC_RPAsset.asset
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+Assets/SkySeries Freebie.meta
+Assets/SkySeries Freebie/FreebieHdri.meta
+Assets/SkySeries Freebie/FreebieHdri/PlanetaryEarth4k.hdr
+Assets/SkySeries Freebie/FreebieHdri/PlanetaryEarth4k.hdr.meta
+Assets/SkySeries Freebie/PlanetaryEarth.mat
+Assets/SkySeries Freebie/PlanetaryEarth.mat.meta
+Assets/TextMesh Pro.meta
+Assets/TextMesh Pro/Fonts.meta
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Assets/TextMesh Pro/Resources.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Assets/TextMesh Pro/Shaders.meta
+Assets/YughuesFreeConcreteMaterials.meta
+Assets/YughuesFreeConcreteMaterials/Materials.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_ColoredSand_d.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_ColoredSand_d.mat.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_CrossSlabs_d.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_CrossSlabs_d.mat.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_CrossSlabs_s 1.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_CrossSlabs_s 1.mat.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_CrossSlabs_s.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_CrossSlabs_s.mat.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Honeycombing_d 1.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Honeycombing_d 1.mat.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Honeycombing_d 2.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Honeycombing_d 2.mat.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Honeycombing_d 3.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Honeycombing_d 3.mat.meta
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Moldy_s.mat
+Assets/YughuesFreeConcreteMaterials/Materials/T_YFCM_Moldy_s.mat.meta
+Assets/YughuesFreeConcreteMaterials/Textures.meta
+Assets/YughuesFreeConcreteMaterials/Textures/T_YFCM_ColoredSand_d.tga
+Assets/YughuesFreeConcreteMaterials/Textures/T_YFCM_ColoredSand_d.tga.meta
+Assets/YughuesFreeConcreteMaterials/Textures/T_YFCM_CrossSlabs_s.tga
+Assets/YughuesFreeConcreteMaterials/Textures/T_YFCM_CrossSlabs_s.tga.meta
+Assets/YughuesFreeFlooringMaterials.meta
+Assets/YughuesFreeFlooringMaterials/Materials.meta
+Assets/YughuesFreeFlooringMaterials/Materials/T_YFFlM_03_s.mat
+Assets/YughuesFreeFlooringMaterials/Materials/T_YFFlM_03_s.mat.meta
+Assets/YughuesFreeFlooringMaterials/Materials/T_YFFlM_04_s.mat
+Assets/YughuesFreeFlooringMaterials/Materials/T_YFFlM_04_s.mat.meta
+Assets/YughuesFreeFlooringMaterials/Materials/T_YFFlM_05_s.mat
+Assets/YughuesFreeFlooringMaterials/Materials/T_YFFlM_05_s.mat.meta
+Assets/YughuesFreeFlooringMaterials/Textures.meta
+Assets/YughuesFreeFlooringMaterials/Textures/T_YFFlM_03_s.tga
+Assets/YughuesFreeFlooringMaterials/Textures/T_YFFlM_03_s.tga.meta
+Assets/YughuesFreeFlooringMaterials/Textures/T_YFFlM_04_s.tga
+Assets/YughuesFreeFlooringMaterials/Textures/T_YFFlM_04_s.tga.meta
+Assets/YughuesFreeFlooringMaterials/Textures/T_YFFlM_05_s.tga
+Assets/YughuesFreeFlooringMaterials/Textures/T_YFFlM_05_s.tga.meta
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/ProjectSettings.asset
+Assets/3DShapes.meta
+Assets/Settings/PC_RPAsset.asset
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/ProjectSettings.asset
+Assets/Settings/PC_RPAsset.asset
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/ProjectSettings.asset
